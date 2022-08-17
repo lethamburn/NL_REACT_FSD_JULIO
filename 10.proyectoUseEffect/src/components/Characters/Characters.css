@@ -1,0 +1,12 @@
+.characters h2{
+    text-align: center;
+    margin: 2rem;
+}
+
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
