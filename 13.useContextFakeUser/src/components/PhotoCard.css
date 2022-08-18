@@ -1,0 +1,16 @@
+figure{
+    width: 18rem;
+    height: 14rem;
+    border: 2px dashed black;
+  background-color: whitesmoke;
+    text-align: right;
+    font-weight: 300;
+    font-style: italic;
+    padding: 0.5rem;
+}
+
+figure img{
+    width: 100%;
+    object-fit: cover;
+    max-height: 11rem;  
+}

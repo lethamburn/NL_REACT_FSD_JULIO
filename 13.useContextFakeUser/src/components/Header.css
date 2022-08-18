@@ -1,0 +1,13 @@
+header nav{
+ height: 10vh;
+ display: flex;
+ align-items: center;
+ justify-content: space-around;
+ width: 100vw;
+ font-weight: bolder;
+ backdrop-filter: blur(3px);
+}
+
+header nav a{
+    text-transform: uppercase;
+}
